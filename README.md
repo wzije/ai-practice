@@ -19,7 +19,7 @@ Berisi implementasi algoritma pencarian dalam ruang status, termasuk:
 
 Contoh kasus yang bisa digunakan: pencarian rute, pemecahan puzzle, labirin, dan lainnya.
 
-📂 Lihat di folder: [`state-search/`](./state-search/)
+📂 Lihat di folder: [`state-search/`](./state_search/)
 
 ---
 
@@ -32,7 +32,7 @@ Berisi simulasi sistem pakar berbasis aturan (rule-based expert system), seperti
 
 Contoh penggunaan: sistem konsultasi sederhana, diagnosa, atau pengambilan keputusan.
 
-📂 Lihat di folder: [`expert-system/`](./expert-system/)
+📂 Lihat di folder: [`expert-system/`](./expert_system/)
 
 ---
 
@@ -41,7 +41,7 @@ Contoh penggunaan: sistem konsultasi sederhana, diagnosa, atau pengambilan keput
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/username/ai-practice.git
+   git clone https://github.com/wzije/ai-practice.git
    cd ai-practice
    ```
 
